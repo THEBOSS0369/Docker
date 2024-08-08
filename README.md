@@ -25,7 +25,7 @@ backend. With containers, it's easy to separate the development needs!
 
 ## Development
 
-To spin up the project, simply install Docker Desktop and then run the following 
+To spin up the project, simply install Docker Desktop and then run the following from the official Docker Github's Profile
 commands:
 
 ```
